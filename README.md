@@ -24,17 +24,16 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=infiniment&bg_color=180,d6d6d6,00000000&title_color=000000&text_color=000000"
-         /> 
+    <div align="center">
+      <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=infiniment&show_icons=true&theme=ambient_gradient" />
     </div>
-    
 <div align= "center"> 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=infiniment&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/infiniment"
-  width="600"
-  height="300"
-/>
-</a>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=infiniment&utm_content=farm">
+        <img
+          src="https://render.gitanimals.org/farms/infiniment"
+          width="600"
+          height="300"
+        />
+    </a>
 </div>
