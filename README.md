@@ -21,12 +21,7 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
       </div>
     </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://masxer.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://masxer.tistory.com/"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
+<hr>
 <div align= "center"> 
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=infiniment&utm_content=farm">
         <img
